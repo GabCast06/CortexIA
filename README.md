@@ -9,7 +9,8 @@ Diagrama de Implantação
 
       Quais ferramentas utilizamos?
 Astah UML
-      
+LuchiChart
+
       👨‍🏫 Equipe da CortexIA
 👨🏻‍💻Gabriel Gomes dos Santos de Castilho Função:Product Owner
 
