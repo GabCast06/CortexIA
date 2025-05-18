@@ -1,0 +1,10 @@
+Requisitos Funcionais
+  1. Cadastro de Solicitações:O sistema deve permitir que os colaboradores registrem chamados com descrição do problema e prioridade.
+  2.Atribuição de Chamados:O sistema deve atribuir automaticamente os chamados ao técnico mais adequado com base na área do problema.
+  3.Priorização Automática:O sistema deve sugerir a prioridade dos chamados com base na urgência e impacto.
+  4.Notificações:O sistema deve notificar os colaboradores e técnicos sobre atualizações dos chamados (ex: resolução ou necessidade de mais informações).
+  5.Histórico de Chamados:O sistema deve armazenar o histórico de todos os chamados para consultas futuras.
+  6.Soluções Automáticas:O sistema deve sugerir soluções automáticas para problemas comuns com base em dados anteriores.
+Requisitos Não Funcionais
+  1.Banco de Dados: Desenvolvimento em SQL Server.
+  2.Testes:Realizamento de testes para identificar erros para ampliar o sucesso de eficiência.
